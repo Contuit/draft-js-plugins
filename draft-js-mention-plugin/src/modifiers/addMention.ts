@@ -49,7 +49,7 @@ export default function addMention(
     mentionReplacedContent = Modifier.insertText(
       mentionReplacedContent,
       mentionReplacedContent.getSelectionAfter(),
-      ' '
+      ''
     );
   }
 
