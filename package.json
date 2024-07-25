@@ -150,7 +150,6 @@
     "release": "changeset publish"
   },
   "workspaces": [
-    "docs",
     "draft-js-alignment-plugin",
     "draft-js-anchor-plugin",
     "draft-js-buttons",
